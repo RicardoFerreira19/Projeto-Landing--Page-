@@ -1,0 +1,50 @@
+@media (max-width:600px) {
+
+    body{
+        height: 1700px;
+    }
+    .container-one {
+        padding: 0%;
+    }
+
+    .container-logo {
+
+        display: block;
+    }
+
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        width: 120px;
+    }
+
+    ul {
+        margin-top: 40px;
+        margin-left: -20px;
+
+    }
+
+    a {
+        font-size: 17px;
+
+    }
+    .button-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+    }
+    .container-two{
+        flex-direction: column;
+    }
+    
+    .img-pessoa{
+        display: block;
+        margin-left: -110px;
+    }
+
+}
